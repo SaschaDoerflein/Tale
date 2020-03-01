@@ -11,27 +11,27 @@ A text based tale simulator
 8. [Fighting](#fighting)
 9. [Social](#social)
 
-# World Building
+## World Building
 - Generate World with beautiful descriptions
 - Generate Animated beings (flora, fauna and even rocks or mountains)
 - Different geografical regions
 - Fast Forward to generate history
 
-# Goal
+## Goal
 - Animated beings have livetime goals
 - Life goals can change due to others and events
 
-# Surviving
+## Surviving
 
-# Crafting
+## Crafting
 
-# Emotion
+## Emotion
 
-# Dialog
+## Dialog
 
-# Knowledge
+## Knowledge
 
-# Fighting
+## Fighting
 
-# Social
+## Social
 
