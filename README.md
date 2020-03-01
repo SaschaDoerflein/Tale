@@ -19,8 +19,10 @@ A text based tale simulator
 - Options for magic and the technological advancement
 
 ## Goal
-- Animated beings have livetime goals
+- Animated beings have livetime goals, commands and needs
 - Life goals can change due to others and events
+- Commands came from other animated beings
+- Needs came from the surviving and emotions system
 
 ## Surviving
 - Physical status of animated beings
