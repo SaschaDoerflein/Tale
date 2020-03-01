@@ -1,32 +1,17 @@
 # Tale
 A text based tale simulator
 
-1. [World Building](#goal)
-2. Goal
-3. Surviving
-4. Craft
-5. Emotion
-6. Dialog
-7. Knowledge
-8. Fight
-9. Social
+1. [World Building](#world-building)
+2. [Goal](#goal)
+3. [Surviving](#surviving)
+4. [Crafting](#crafting)
+5. [Emotion](#emotion)
+6. [Dialog](#dialog)
+7. [Knowledge](#knowledge)
+8. [Fighting](#fighting)
+9. [Social](#social)
 
-f
-f
-f
-f
-f
-f
-f
-f
-
-f
-f
-f
-f
-
-
-# 1. World Building
+# World Building
 - Generate World with beautiful descriptions
 - Generate Animated beings (flora, fauna and even rocks or mountains)
 - Different geografical regions
@@ -35,4 +20,18 @@ f
 # Goal
 - Animated beings have livetime goals
 - Life goals can change due to others and events
+
+# Surviving
+
+# Crafting
+
+# Emotion
+
+# Dialog
+
+# Knowledge
+
+# Fighting
+
+# Social
 
