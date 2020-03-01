@@ -1,7 +1,7 @@
 # Tale
 A text based tale simulator
 
-1. [World Building](#1.-world-building)
+1. [World Building](#goal)
 2. Goal
 3. Surviving
 4. Craft
@@ -32,7 +32,7 @@ f
 - Different geografical regions
 - Fast Forward to generate history
 
-## 2. Goal
+# Goal
 - Animated beings have livetime goals
 - Life goals can change due to others and events
 
