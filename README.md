@@ -11,6 +11,21 @@ A text based tale simulator
 8. Fight
 9. Social
 
+f
+f
+f
+f
+f
+f
+f
+f
+
+f
+f
+f
+f
+
+
 # 1. World Building
 - Generate World with beautiful descriptions
 - Generate Animated beings (flora, fauna and even rocks or mountains)
